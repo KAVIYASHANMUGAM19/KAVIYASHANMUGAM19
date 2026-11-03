@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 - 🎓 Final-year B.E CSE Student
 - 💻 Building full-stack applications and AI-powered tools
-- 🌌 Interested in AI, space, science, and emerging technology
+- 🌌 Interested in AI and emerging technology
 - 🎯 Learning by building real-world projects
 
 ### 🛠️ Tech Stack
