@@ -24,11 +24,11 @@
 
 ### 🚀 Featured Project
 
-[![Smart Hospital Management](https://github-readme-stats.vercel.app/api/pin/?username=G-KUMAR05&repo=smart-hospital-management&theme=tokyonight&hide_border=true)](https://github.com/G-KUMAR05/smart-hospital-management)
+[Smart Hospital Management](https://github.com/KAVIYASHANMUGAM19/smart-hospital-management.git)
 
 ### 📊 GitHub Stats
 
-![Contribution Snake](https://raw.githubusercontent.com/G-KUMAR05/G-KUMAR05/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/KAVIYASHANMUGAM19/KAVIYASHANMUGAM19/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 
