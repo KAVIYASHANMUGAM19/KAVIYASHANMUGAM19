@@ -24,6 +24,8 @@
 
 ### 🚀 Featured Project
 
+[Phishing Detection System](https://github.com/KAVIYASHANMUGAM19/Phishing-detection-system.git)
+
 [Smart Hospital Management](https://github.com/KAVIYASHANMUGAM19/smart-hospital-management.git)
 
 ### 📊 GitHub Stats
