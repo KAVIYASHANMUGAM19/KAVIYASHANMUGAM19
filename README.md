@@ -1,16 +1,37 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**KAVIYASHANMUGAM19/KAVIYASHANMUGAM19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Kaviya 👋
 
-Here are some ideas to get you started:
+### Full-Stack Developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Building+Real-World+Projects;Java+%7C+Spring+Boot+%7C+React;Exploring+AI+%26+Intelligent+Systems)](https://git.io/typing-svg)
+
+[LinkedIn](https://www.linkedin.com/in/kumar-g-890551272)  •  [Leetcode](https://leetcode.com/u/G-kumar/)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 Final-year B.E CSE Student
+- 💻 Building full-stack applications and AI-powered tools
+- 🌌 Interested in AI, space, science, and emerging technology
+- 🎯 Learning by building real-world projects
+
+### 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,js,python,html,css,mysql,postgres,docker,git,github&theme=dark)](https://skillicons.dev)
+
+### 🚀 Featured Project
+
+[![Smart Hospital Management](https://github-readme-stats.vercel.app/api/pin/?username=G-KUMAR05&repo=smart-hospital-management&theme=tokyonight&hide_border=true)](https://github.com/G-KUMAR05/smart-hospital-management)
+
+### 📊 GitHub Stats
+
+![Contribution Snake](https://raw.githubusercontent.com/G-KUMAR05/G-KUMAR05/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+
+*"Build. Explore. Repeat." 🌌*
+
+</div>
